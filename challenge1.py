@@ -1,3 +1,8 @@
+# Usage 
+# >> from challenge1 import *
+# >> func1(50)
+# >> func2(['abc', 'cba', 'xyz'])
+
 from collections import defaultdict
 
 def func1(n):
